@@ -31,7 +31,7 @@ Build a web design skeleton using HTMl/CSS.
     * font-size: 18px
 
 ## Technologies Used: 
-* HTMl
+* HTML
 * CSS
 
 ## Live Link: 
